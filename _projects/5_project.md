@@ -1,11 +1,24 @@
 ---
 layout: page
 title: Phylogenetic pipeline
-description: a project with a background image
+description: Reconstructing evolutionary relationships through phylogenetic and phylogenomic analyses
 img: assets/img/Bildschirmfoto 2026-05-02 um 10.33.14.jpg
 importance: 5
 category: work
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
