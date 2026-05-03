@@ -431,7 +431,7 @@ ninja.data = [{
               window.location.href = "/projects/4_project/";
             },},{id: "projects-phylogenetic-pipeline",
           title: 'Phylogenetic pipeline',
-          description: "a project with a background image",
+          description: "Reconstructing evolutionary relationships through phylogenetic and phylogenomic analyses",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
