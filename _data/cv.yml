@@ -169,9 +169,9 @@ cv:
         issuer: CIIMAR
         icon: fa-solid fa-envelope
 
-      - name: Hands-on session
+      - name:
         date:
-        issuer: SPAOM 2023
+        issuer: 
         icon: fa-solid fa-location-dot
 
     References:
