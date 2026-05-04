@@ -2,7 +2,7 @@ cv:
   name: Katrin Walter
   label: Scientist
   email: kwalter@mailbox.org
-  location: Frankfurt, HE
+  location: Hainburg
   image:
   summary: I am a molecular biologist who turns next-generation sequencing data into clean, scalable workflows. With over 15 years at the bench, I bridge wet lab and computational analysis, building pipelines and protocols that non-bioinformatic colleagues can use independently. I am constantly learning, with a strong focus on usability, reproducibility, and translating complex science into practical tools.
 
@@ -14,7 +14,7 @@ cv:
 
   address:
     street:
-    city: Frankfurt
+    city: Hainburg
     region:
     postalCode:
     countryCode: 
