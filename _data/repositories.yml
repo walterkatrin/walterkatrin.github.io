@@ -1,9 +1,7 @@
 github_users:
-  - katrin-walter
+  - walterkatrin
 
 repo_description_lines_max: 2
 
 github_repos:
-  - katrin-walter/Phylogenomic_workflow
-  - katrin-walter/Microbiome_profiling_ONT
-  - katrin-walter/IGV_guide_for_beginners
+
