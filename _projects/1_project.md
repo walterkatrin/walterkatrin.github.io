@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 ### Goal 
-Generate high-quality whole-genome sequencing data for the green macroalga Caulerpa as the basis for an organellar reference genome database. Caulerpa is a non-model organism with no established sequencing protocol in our group, so the entire pipeline had to be built end-to-end.
+Generate high-quality whole-genome sequencing data for the green macroalga Caulerpa as the basis for an organellar reference genome database and identification of polymorphisms. Caulerpa is a non-model organism with no established sequencing protocol in our group, so the entire pipeline had to be built end-to-end.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
