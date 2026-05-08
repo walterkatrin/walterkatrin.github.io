@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://katrin-walter.github.io/sitemap.xml
+Sitemap: https://walterkatrin.github.io/sitemap.xml
