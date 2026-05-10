@@ -7,8 +7,8 @@ importance: 4
 category: work
 ---
 
-### Project context
-16S rRNA amplicon sequencing of microbial communities associated with marine and coastal hosts: green, red, and brown algae, seagrasses, mangroves, and sediment. Across more than 130 samples, around 1,300 bacterial taxa were detected per sample on average. The goal was to characterize microbiome composition across hosts, identify dominant taxa, and flag candidates with potential beneficial roles for the host. Sequencing was done with Oxford Nanopore. Detailed code in the repository on my github.
+### Goal
+Adapted a 16S rRNA amplicon analysis workflow for microbiome profiling across more than 130 samples, with around 1,300 bacterial taxa detected per sample on average. 16S rRNA analysis is a standard method in clinical microbiology, used for bacterial identification and microbiome characterisation. The same approach was applied here to host-associated microbiomes, identifying dominant taxa and candidates with potential beneficial roles for the host.
 
 ### Strategy
 The wide range of sample types meant that classifier choice and filter settings could not be picked once and reused. The workflow had to handle very different community structures consistently, while keeping the analysis reproducible across dozens of samples. NanoClass2, a Snakemake-based meta-classifier, served as the backbone, with downstream analysis built around it in R.
