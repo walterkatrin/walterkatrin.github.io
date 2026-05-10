@@ -1,9 +1,8 @@
 cv:
   name: Katrin Walter
-  label: Scientist
+  label: Molecular biologist
   email: kwalter@mailbox.org
   location: Hainburg
-  image:
   summary: I am a molecular biologist who turns next-generation sequencing data into clean, scalable workflows. With over 15 years at the bench, I bridge wet lab and computational analysis, building pipelines and protocols that non-bioinformatic colleagues can use independently. I am constantly learning, with a strong focus on usability, reproducibility, and translating complex science into practical tools.
 
   social_networks:
@@ -15,9 +14,8 @@ cv:
   address:
     street:
     city: Hainburg
-    region:
+    region: Germany
     postalCode:
-    countryCode: 
 
   sections:
     Education:
@@ -30,7 +28,7 @@ cv:
         end_date: 2018
         score: ""
         courses: 
-          - "Molecular Plant Metabolic Physiology"
+          - "Molecular Plant Physiology"
           - "Molecular Zoology"
         highlights:
           - Thesis at Alfred Wegener Institut, Bremerhaven
@@ -63,7 +61,7 @@ cv:
         position: PhD Candidate
         location: Faro, Portugal
         start_date: 2021
-        end_date: current
+        end_date: present
         summary: I run end-to-end NGS workflows on Oxford Nanopore platform, from sample to insight; building reproducible pipelines, calling variants in semi-autonomous organelles, profiling host-associated microbiomes across green algae, seagrass, mangroves and sediment, and recovering MAGs to investigate key taxa that drive host success.
         highlights:
           - Established the first end-to-end NGS pipelines in a newly formed group within 6 months and turned them into reusable protocols, cutting onboarding time for new sequencing projects.
@@ -71,14 +69,7 @@ cv:
           - Doubled the global reference database for an under-characterized organelle group through systematic variant analysis (SNVs, Indels, heteroplasmies).
           - Identified key microbial taxa driving host success across diverse environments (green algae, seagrass, mangroves, sediment), enabling targeted downstream work.
           - Bridged molecular biology, bioinformatics and microbiology across international collaborations and supervised one Master thesis and three lab interns.
-
-      - company: FCT-funded scholarship
-        position: PhD Candidate
-        location: Faro, Portugal
-        start_date: 2021
-        end_date: 2025
-        summary: PhD funded by a competitive scholarship from the Fundação para a Ciência e a Tecnologia (FCT, Portugal)
-        highlights:
+          - PhD funded by a competitive scholarship from the Fundação para a Ciência e a Tecnologia (FCT, Portugal), 09.2021-08.2025
 
       - company: PhD Preparation & Skill Building
         position: 
