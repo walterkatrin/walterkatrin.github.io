@@ -7,12 +7,11 @@ importance: 3
 category: work
 ---
 
-### Project context
-Whole genome sequencing of green algae (Chlorophyta), with the goal of expanding a sparse reference database and identifying polymorphisms and heteroplasmy. The dataset combined Nanopore long reads with Illumina short reads, allowing a hybrid approach. Detailed code and results are kept private until publication.
+### Goal
+Adapted a hybrid analysis approach combining Oxford Nanopore long reads with Illumina short reads for variant calling, polymorphism analysis, and heteroplasmy detection. These methods are standard in clinical genomics, used in oncology, hereditary disease, and mitochondrial diagnostics. 
 
 ### Strategy
-Working with a non-model organism and limited reference material meant that standard pipelines did not apply out of the box. Each step required testing tools, comparing outputs, and adapting the workflow to the specific data type, whether organellar, nuclear, or microbial. The pipeline below reflects the path that worked, after several that did not.
-
+Limited reference material meant that standard pipelines did not apply out of the box. Each step required testing tools, comparing outputs, and adapting the workflow to the specific data type, whether organellar, nuclear, or microbial. The pipeline reflects the path that worked. Detailed code and results are kept private until publication.
 ### Pipeline overview
 
     Quality cotrol. 
