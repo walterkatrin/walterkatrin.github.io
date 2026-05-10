@@ -9,25 +9,11 @@ related_publications: false
 ---
 
 ### Goal 
-Generate high-quality whole-genome sequencing data for the green macroalga Caulerpa as the basis for an organellar reference genome database and identification of polymorphisms. Caulerpa is a non-model organism with no established sequencing protocol in our group, so the entire pipeline had to be built end-to-end.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bafe93bd-96b9-4958-9eea-e72925a05a3a Kopie.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_4554.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_6622.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-      Caulerpa is a single-celled organism that can grow over a metre in size while remaining one giant cell with multiple nuclei. Despite its unicellular nature, it forms remarkably diverse morphologies (grape-, feather-, and leaf-like) and make it a research target across biomedicine, biotech, and the food industry.
-</div>
+Built a workflow from sample preparation to sequencing for a non-model organism, where no validated protocol existed in the group. The workflow transfers directly to other non-model species and is documented so colleagues without a background in long-read sequencing can apply it independently.
+The chosen organism, Caulerpa, produces bioactive compounds studied in cancer research, which makes reference genomes for this genus relevant beyond evolutionary genetics. 
 
 ### Wet lab
-Maintained live cultures under controlled temperature and light conditions, and processed silica-preserved samples from collaborators where only minimal tissue was available. DNA was extracted using a CTAB protocol that I adapted specifically for Caulerpa tissue, chosen over commercial extraction kits because CTAB removes polysaccharides and secondary metabolites typical of macroalgae far more reliably and yields the high-molecular-weight DNA that long-read sequencing requires.
+Maintained live cultures under controlled temperature and light conditions, and processed silica-preserved samples from collaborators where only minimal tissue was available. DNA was extracted using a CTAB protocol that I adapted for this tissue type, chosen over commercial kits because CTAB reliably removes polysaccharides and secondary metabolites and yields the high-molecular-weight DNA that long-read sequencing requires.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -46,7 +32,7 @@ Maintained live cultures under controlled temperature and light conditions, and 
 </div>
 
 ### Sequencing
-Library preparation and barcoding followed the Oxford Nanopore protocol; whole-genome sequencing was performed on the MinION using flow cells. Based on expected total genome size, I calculated the optimal number of samples per flow cell and scaled multiplexing from 3 to 24 barcodes per run with no loss in data quality, significantly reducing per-sample sequencing cost.
+Library preparation and barcoding followed the Oxford Nanopore protocol; whole-genome sequencing was performed on the MinION using flow cells. Based on expected genome size, I calculated the optimal sample number per flow cell and scaled multiplexing from 3 to 24 barcodes per run with no loss in data quality, significantly reducing per-sample sequencing cost.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -62,7 +48,7 @@ Library preparation and barcoding followed the Oxford Nanopore protocol; whole-g
 
 
 ### Outcome
-A reproducible end-to-end workflow from culture to sequencing-ready data, expanding a genus for which only 13 complete chloroplast genomes are currently available worldwide. The workflow has the potential to at least double this reference base and is transferable to other non-model marine organisms.
+A reproducible workflow from sample preparation to sequencing. Sequence analysis is covered in a separate project.
 
 
 ### Stack
