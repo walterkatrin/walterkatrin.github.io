@@ -25,13 +25,8 @@ latest_posts:
 ---
 
 I am a biologist working at the intersection of molecular biology and bioinformatics, with focus on next-generation sequencing, pipeline development, genome and microbiome analysis.
-
-After years in academic research, I want to bring my work closer to where it is applied. What motivates me is solving real problems end to end and seeing the results being used.
-
-I offer a strong combination: a molecular biologist who also works confidently with bioinformatics. I understand data from the bench to the terminal, and I can translate between both worlds, so wet lab teams, analysts, and decision-makers actually understand each other.
-
+After years in academic research, I want to bring my work into clinical and diagnostic labs, where reliable results contribute to patient care. What motivates me is knowing that behind every sample there is a person waiting for an answer, and that my work has a direct impact on their care.
+I offer a strong combination: a molecular biologist who also works confidently with bioinformatics. I understand data from the bench to the terminal, and I can translate between both worlds, so lab teams, analysts, and clinicians actually understand each other.
 Outside of work, I recharge with family and friends, I love exploring new places with my dog or running small science experiments with my younger cousin.
-
-If your team is solving problems at this intersection, let's talk.
-Feel free to reach out via kwalter@mailbox.org or check my projects on https://github.com/katrin-walter.
+If your team is solving problems at this intersection, let's talk. Feel free to reach out via kwalter@mailbox.org or check my projects on https://github.com/walterkatrin.
 
