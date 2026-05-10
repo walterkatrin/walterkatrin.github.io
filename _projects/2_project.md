@@ -9,11 +9,11 @@ giscus_comments: false
 ---
 
 ### Goal
-Profiling the host-associated microbiomes of marine organisms (green, red and brown macroalgae, seagrasses, mangroves) and sediment to identify the bacterial taxa that drive host growth and survival. Such "key taxa" are directly relevant for biotech applications and cultivation, where defined microbial communities can stabilise yields and improve the success of host organisms in controlled settings.
+Built a wet-lab workflow for 16S rRNA microbiome profiling that scales from environmental samples down to single bacterial colonies. 16S rRNA sequencing is a standard method in clinical microbiology, used for bacterial identification and microbiome analysis.The same approach was applied here to host-associated microbiomes, identifying the bacterial taxa that drive host growth and survival.
 
 
 ### Wet lab
-Bead-based homogenisation followed by DNA extraction with the Zymo Quick-DNA kit, selected for the most time-efficient handling of large sample numbers. 16S amplification (PCR) and barcoding flowed directly into the Oxford Nanopore library preparation. In parallel, swab samples from selected hosts were used to isolate single bacterial colonies, which were amplified directly from picked colonies and sequenced by Sanger to confirm specific taxa at high resolution.
+Bead-based homogenisation followed by DNA extraction with the Zymo Quick-DNA kit, selected for time-efficient handling of large sample numbers. 16S amplification (PCR) and barcoding fed directly into Oxford Nanopore library preparation. In parallel, swab samples from selected hosts were used to isolate single bacterial colonies, which were amplified directly from picked colonies and sequenced by Sanger to confirm specific taxa at high resolution.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,10 +31,10 @@ Bead-based homogenisation followed by DNA extraction with the Zymo Quick-DNA kit
 </div>
 
 ### Sequencing
-16S rRNA amplicons were barcoded and prepared for sequencing following the Oxford Nanopore protocol, then sequenced on the MinION using Flongle flow cells with 12 multiplexed samples per run. Sanger sequencing of single colonies was used as a complementary, high-confidence reference for individual isolates.
+16S rRNA amplicons were barcoded and prepared following the Oxford Nanopore protocol, then sequenced on the MinION using Flongle flow cells with 12 multiplexed samples per run. Sanger sequencing of single colonies served as a complementary high-confidence reference for individual isolates.
 
 ### Outcome
-A reproducible wet-lab workflow for long-read microbiome profiling that scales from whole environmental samples to single bacterial colonies. The workflow delivers sequencing-ready data for identifying the bacterial taxa most relevant to host growth and survival — directly applicable to biotech production, aquaculture, and controlled cultivation. Downstream bioinformatic analysis is described in the dry-lab project.
+A reproducible workflow from sample preparation to sequencing for microbiome profiling, scaling from bulk samples to single colonies. Downstream bioinformatic analysis is covered in a separate project.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
