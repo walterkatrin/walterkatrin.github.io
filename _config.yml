@@ -7,8 +7,7 @@ first_name: Katrin
 middle_name: 
 last_name: Walter
 contact_note: kwalter@mailbox.org
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: Molecular biologist focused on NGS, bioinformatics pipelines, and microbiome analysis. Bridging wet lab and computational work.
 footer_text: © 2026 Katrin Walter
 keywords: Molecular Biology, Bioinformatics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
