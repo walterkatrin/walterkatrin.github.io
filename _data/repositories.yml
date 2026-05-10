@@ -4,4 +4,5 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-
+  - walterkatrin/Nanopore_microbiome_profiling
+  - walterkatrin/WGS_assembly_and_variant_calling
