@@ -5,7 +5,7 @@ permalink: /projects/
 description: A selection of wet lab and dry lab projects from my work.
 nav: true
 nav_order: 3
-display_categories: [work, additional]
+display_categories: [work]
 horizontal: false
 ---
 
